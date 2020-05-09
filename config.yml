@@ -1,0 +1,16 @@
+username: 'sample_username'
+password: 'sample_password'
+url: 'sample_url'
+timeout: '20'
+browser: 'firefox'
+courses:
+  1:
+    name: 'CSE 213 Numerical Analysis'
+    weekday: 'saturday'
+    time: '08:39'
+    length: '2'
+  2:
+    name: 'ECE 221 Digital Logic Design'
+    weekday: 'friday'
+    time: '21:00'
+    length: '3'
